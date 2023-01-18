@@ -1,5 +1,8 @@
 ### Hi there 👋 This is 加乘
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **40436michael/40436michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
