@@ -1,8 +1,6 @@
 ### Hi there 👋 This is 加乘
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=40436michael)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=40436michael&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20mins-blue)
@@ -65,6 +63,13 @@ JavaScript               1 repo              ███░░░░░░░░�
 
  Last Updated on 19/01/2023 00:44:45 UTC
 <!--END_SECTION:waka-->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=40436michael&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=40436michael&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **40436michael/40436michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
