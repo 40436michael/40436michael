@@ -65,7 +65,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=40436michael&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=40436michael&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=40436michael&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
