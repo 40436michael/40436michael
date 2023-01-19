@@ -1,7 +1,7 @@
 ### Hi there 👋 This is 加乘
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -59,7 +59,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 18/01/2023 16:47:11 UTC
+ Last Updated on 19/01/2023 00:44:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
