@@ -34,16 +34,16 @@ Sunday          19 commits       ███░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+vs code for java         3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 mins              █████████████████████████   100.00 % 
 
 ```
 
@@ -59,7 +59,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 10/02/2023 00:46:47 UTC
+ Last Updated on 11/02/2023 00:39:32 UTC
 <!--END_SECTION:waka-->
 
 
