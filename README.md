@@ -32,16 +32,16 @@ Sunday                   19 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C#                       0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Monopoly                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -56,7 +56,7 @@ C++                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 01/03/2023 00:49:47 UTC
+ Last Updated on 02/03/2023 00:47:54 UTC
 <!--END_SECTION:waka-->
 
 
