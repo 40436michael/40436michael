@@ -32,16 +32,18 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      6 mins              ███████████████████░░░░░░   77.77 % 
+Other                    1 min               ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             6 mins              ████████████████████░░░░░   78.02 % 
+VS Code                  1 min               █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -57,7 +59,7 @@ C#                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 17/06/2023 00:42:06 UTC
+ Last Updated on 18/06/2023 00:51:44 UTC
 <!--END_SECTION:waka-->
 
 
