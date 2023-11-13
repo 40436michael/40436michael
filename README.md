@@ -3,7 +3,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2058%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -32,16 +32,16 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FJU_Library              12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in CSS** 
@@ -57,7 +57,7 @@ C#                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 12/11/2023 00:39:34 UTC
+ Last Updated on 13/11/2023 00:37:33 UTC
 <!--END_SECTION:waka-->
 
 
