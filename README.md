@@ -3,8 +3,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%202%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -32,18 +30,16 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      40 mins             ████████████████████████░   96.16 % 
-Git                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-洪逸 資料結構                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -59,7 +55,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 10/04/2024 01:31:30 UTC
+ Last Updated on 11/04/2024 00:37:25 UTC
 <!--END_SECTION:waka-->
 
 
