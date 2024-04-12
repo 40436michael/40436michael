@@ -16,6 +16,7 @@ jobs:
           SHOW_PROFILE_VIEWS: False
           SHOW_SHORT_INFO: False
           SHOW_LOC_CHART: False
+          TIME_RANGE: all_time # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           ### commit
