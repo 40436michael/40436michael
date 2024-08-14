@@ -32,16 +32,16 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+TowerDefence             0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -57,7 +57,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2024 00:43:57 UTC
+ Last Updated on 14/08/2024 00:43:12 UTC
 <!--END_SECTION:waka-->
 
 
