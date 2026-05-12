@@ -62,8 +62,8 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=40436michael&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=40436michael&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
+  <img height="180em" src="./github-stats.svg"/>
+  <img height="180em" src="./top-langs.svg"/>
 </p>
 <!--
 **40436michael/40436michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
