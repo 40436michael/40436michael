@@ -61,9 +61,9 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=40436michael&show_icons=true&theme=tokyonight&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=40436michael)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=40436michael&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=40436michael&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css)
 
 <!--
 **40436michael/40436michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
