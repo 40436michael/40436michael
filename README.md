@@ -59,7 +59,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-## GitHub Stats
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=40436michael&show_icons=true&theme=tokyonight&hide_border=true)
 
