@@ -57,7 +57,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
  Last Updated on 04/11/2024 00:51:54 UTC
 <!--END_SECTION:waka-->
-![snake gif](https://github.com/40436michael/40436michael/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
