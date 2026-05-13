@@ -63,7 +63,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=40436michael&show_icons=true)
 
-[![Top Langs](https://github-stats-extended.vercel.ap/api/top-langs/?username=40436michael&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=40436michael&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **40436michael/40436michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
