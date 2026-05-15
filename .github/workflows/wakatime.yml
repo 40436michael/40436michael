@@ -41,7 +41,3 @@ jobs:
           COMMIT_MESSAGE: "Updated waka stats"
 
           LOCALE: "en"
-
-          SYMBOL_VERSION: "1"
-          BADGE_STYLE: "flat"
-
