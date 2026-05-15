@@ -3,61 +3,20 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2053%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-🌆 Daytime                189 commits         ███████████░░░░░░░░░░░░░░   44.06 % 
-🌃 Evening                179 commits         ██████████░░░░░░░░░░░░░░░   41.72 % 
-🌙 Night                  41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   94 commits          █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-Tuesday                  43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Wednesday                97 commits          ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-Thursday                 70 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Friday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Saturday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Sunday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   10 repos            █████████░░░░░░░░░░░░░░░░   37.04 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 14/05/2026 02:16:22 UTC
+ Last Updated on 15/05/2026 02:14:16 UTC
 <!--END_SECTION:waka-->
 
 
