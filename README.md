@@ -1,6 +1,10 @@
 ### Hi there 👋 This is 加乘 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaelch/michaelch/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michaelch/michaelch/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/michaelch/michaelch/output/github-snake.svg" />
+</picture>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2010%20mins-blue?style=flat)
