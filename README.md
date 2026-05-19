@@ -59,10 +59,11 @@ Windows                  4 hrs 14 mins       ███████████�
 
 
 
-
+<!--
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=40436michael&show_icons=true)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=40436michael&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=40436michael&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+-->
 
 <p align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=40436michael&amp;show_icons=true&amp;theme=radical" alt="加乘" /></p>
 
