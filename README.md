@@ -70,7 +70,10 @@ Windows                  4 hrs 14 mins       ███████████�
 <p align="center"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=40436michael&amp;theme=radical" alt="加乘" /></p>
 
 <p align="center"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=40436michael&amp;layout=compact&amp;theme=radical" alt="加乘" /></p>
-<img src="https://github-profile-trophy.vercel.app/?username=40436michael&no-frame=true&theme=onedark&margin-w=15&column=4" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=40436michael&no-frame=true&theme=onedark&margin-w=15&column=4" />
+</p>
+
 <!--
 **40436michael/40436michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
