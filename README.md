@@ -11,12 +11,52 @@
 </picture>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%202%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+🌆 Daytime                233 commits         ████████████░░░░░░░░░░░░░   46.51 % 
+🌃 Evening                193 commits         ██████████░░░░░░░░░░░░░░░   38.52 % 
+🌙 Night                  44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   113 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+Tuesday                  57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Wednesday                108 commits         █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+Thursday                 83 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Friday                   69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Saturday                 47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Sunday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Python                   4 hrs 46 mins       ████████████████████████░   95.08 % 
+CSV                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+VS Code                  5 hrs               █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  5 hrs               █████████████████████████   100.00 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/40436michael/40436michael/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 02:16:06 UTC
+ Last Updated on 30/05/2026 02:11:39 UTC
 <!--END_SECTION:waka-->
 
 
