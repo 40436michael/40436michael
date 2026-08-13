@@ -18,21 +18,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                107 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-🌆 Daytime                281 commits         ██████████░░░░░░░░░░░░░░░   41.02 % 
-🌃 Evening                204 commits         ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-🌙 Night                  93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+🌞 Morning                108 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+🌆 Daytime                282 commits         ██████████░░░░░░░░░░░░░░░   41.05 % 
+🌃 Evening                204 commits         ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+🌙 Night                  93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   140 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Wednesday                124 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Thursday                 118 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Friday                   110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Saturday                 64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Sunday                   42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Monday                   140 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Wednesday                126 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Thursday                 118 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Friday                   110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Saturday                 64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Sunday                   42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 ```
 
 
@@ -42,14 +42,15 @@ Sunday                   42 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   42 mins             █████████████████████░░░░   85.98 % 
-CSV                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Python                   3 hrs 14 mins       ████████████████████████░   95.50 % 
+CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-VS Code                  49 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -63,7 +64,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/40436michael/40436michael/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 01:08:57 UTC
+ Last Updated on 13/08/2026 01:10:23 UTC
 <!--END_SECTION:waka-->
 
 
