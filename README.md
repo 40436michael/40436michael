@@ -18,21 +18,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                148 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-🌆 Daytime                354 commits         █████████░░░░░░░░░░░░░░░░   35.98 % 
-🌃 Evening                318 commits         ████████░░░░░░░░░░░░░░░░░   32.32 % 
-🌙 Night                  164 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌞 Morning                149 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+🌆 Daytime                354 commits         █████████░░░░░░░░░░░░░░░░   35.83 % 
+🌃 Evening                321 commits         ████████░░░░░░░░░░░░░░░░░   32.49 % 
+🌙 Night                  164 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   220 commits         ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-Tuesday                  153 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Wednesday                146 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Thursday                 157 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Friday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Saturday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Sunday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Monday                   220 commits         ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+Tuesday                  153 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Wednesday                150 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Thursday                 157 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Friday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Saturday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Sunday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 ```
 
 
@@ -42,24 +42,25 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      47 mins             ███████████████░░░░░░░░░░   60.34 % 
-Python                   30 mins             ██████████░░░░░░░░░░░░░░░   38.60 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+C++                      33 mins             █████████████░░░░░░░░░░░░   51.72 % 
+Python                   30 mins             ████████████░░░░░░░░░░░░░   46.87 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        ████████████████████████░   96.95 % 
-Claude Code              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+VS Code                  57 mins             ████████████████████████░   96.24 % 
+Claude Code              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+Windows                  59 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (9.97%)
+⏱ AI Coding Time: 7 mins (12.28%)
 
-✍️ 169 lines written by AI, 217 lines written by hand (43.78% AI-written)
+✍️ 169 lines written by AI, 182 lines written by hand (48.15% AI-written)
 
 🔤 37,295 Input Tokens, 10,242 Output Tokens
 
@@ -71,10 +72,10 @@ Sonnet                   243 lines           ███████████�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 43.78% of written lines came from AI
+⚖️ Balanced with AI — 48.15% of written lines came from AI
 📝 Concise Prompter — average 98 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 59.86% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 52.39% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -82,7 +83,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/40436michael/40436michael/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 02:30:53 UTC
+ Last Updated on 24/09/2026 02:19:59 UTC
 <!--END_SECTION:waka-->
 
 
