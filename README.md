@@ -18,21 +18,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                171 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-🌆 Daytime                365 commits         ████████░░░░░░░░░░░░░░░░░   33.89 % 
-🌃 Evening                355 commits         ████████░░░░░░░░░░░░░░░░░   32.96 % 
-🌙 Night                  186 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+🌞 Morning                172 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+🌆 Daytime                366 commits         ████████░░░░░░░░░░░░░░░░░   33.76 % 
+🌃 Evening                359 commits         ████████░░░░░░░░░░░░░░░░░   33.12 % 
+🌙 Night                  187 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   228 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-Tuesday                  161 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Wednesday                170 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Thursday                 179 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Friday                   151 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Sunday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Monday                   228 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Tuesday                  161 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Wednesday                170 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Thursday                 179 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Friday                   151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Saturday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Sunday                   80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 ```
 
 
@@ -42,19 +42,40 @@ Sunday                   79 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 13 mins       ████████████░░░░░░░░░░░░░   47.31 % 
+Markdown                 2 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   41.38 % 
+Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+PowerShell               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              6 hrs 34 mins       ████████████████████████░   96.39 % 
+VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 6 hrs 39 mins (97.6%)
+
+✍️ 3,087 lines written by AI, 1 lines written by hand (99.97% AI-written)
+
+🔤 7,251,058 Input Tokens, 497,496 Output Tokens
+
+💵 $68.04 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 96 AI Prompts
+
+Opus                     3,099 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.97% of written lines came from AI
+📄 Detailed Prompter — average 703 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -62,7 +83,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/40436michael/40436michael/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 02:13:18 UTC
+ Last Updated on 18/10/2026 02:13:22 UTC
 <!--END_SECTION:waka-->
 
 
